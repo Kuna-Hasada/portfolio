@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 📸 Screenshot
 
 ![Portfolio Screenshot](./all-images/portfolio-screenshot.png)
-
+![Portfolio Screenshot](./all-images/skill-screenshort.png)
 ![Portfolio Screenshot](./all-images/work-screeenshort.png)
 
 ![Portfolio Screenshot](./all-images/experience-screenshort.png)
