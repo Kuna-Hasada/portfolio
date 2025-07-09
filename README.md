@@ -8,10 +8,11 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ![Portfolio Screenshot](./all-images/portfolio-screenshot.png)
 
-> ⚠️ Replace the image path above with the actual path or GitHub URL of your screenshot.  
-> If you upload the screenshot to the repo, place it in a folder like `all-images`.
+![Portfolio Screenshot](./all-images/work-screeenshort.png)
 
----
+![Portfolio Screenshot](./all-images/experience-screenshort.png)
+
+![Portfolio Screenshot](./all-images/footer-screenshort.png)
 
 ## 📖 Description
 
@@ -34,5 +35,5 @@ It’s fully optimized for both desktop and mobile devices.
 
 ---
 
-## 📂 Folder Structure
+
 
